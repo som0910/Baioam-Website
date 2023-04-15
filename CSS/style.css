@@ -418,10 +418,15 @@ header .nav-item a:hover {
   margin-top: -1.5rem;
 }
 
-.card .card-body .card-title {
+.card-title {
   padding: 1rem 0rem 0.8rem;
   font-weight: 700;
   color: #03003f;
+}
+
+.card-title:hover {
+  color: #fb5021;
+  cursor: pointer;
 }
 
 .card .card-body p {
