@@ -33,7 +33,7 @@
   background: -webkit-linear-gradient(0deg, #fa2424, #fb8721);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  border-bottom: 2px solid rgb(245, 69, 0);
+  border-bottom: 2px solid #f54500;
 }
 
 
@@ -418,15 +418,10 @@ header .nav-item a:hover {
   margin-top: -1.5rem;
 }
 
-.card-title {
+.card .card-body .card-title {
   padding: 1rem 0rem 0.8rem;
   font-weight: 700;
   color: #03003f;
-}
-
-.card-title:hover {
-  color: #fb5021;
-  cursor: pointer;
 }
 
 .card .card-body p {

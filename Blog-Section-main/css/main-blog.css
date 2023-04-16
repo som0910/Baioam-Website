@@ -122,13 +122,9 @@ color: orangered !important;
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.7rem;
-  padding: 20px 0px;
+  padding: 20px 12px;
   color: rgb(1, 1, 68);
   /* color: rgb(71, 71, 110); */
-}
-
-.we__offer_content #title:hover{
-  color: orangered !important;
 }
 
 .we__offer_content a {

@@ -985,6 +985,10 @@ article p {
       min-width: 61vw;
       padding-left: 5px;
   }
+  .social a {
+      width: 10px;
+      height: 10px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -1109,7 +1113,6 @@ margin-bottom: -10px;
   .input-icons span select {
       width: -moz-available;
   }
-  
   .input-icons i.fa-bookmark {
   padding: 1.25rem;
 }
@@ -1117,6 +1120,17 @@ margin-bottom: -10px;
 
 
 /* Mobile View  */
+
+@media (max-width: 1380px) {}
+
+@media (max-width: 663px) {}
+
+@media (max-width:900) {
+  .social {
+      max-width: 30px;
+  }
+}
+
 
 /* ********************** */
 @media (max-width:450px){
