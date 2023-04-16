@@ -33,7 +33,7 @@
   background: -webkit-linear-gradient(0deg, #fa2424, #fb8721);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  border-bottom: 2px solid #f54500;
+  border-bottom: 2px solid rgb(245, 69, 0);
 }
 
 
